@@ -1,5 +1,8 @@
 # ICE 2: Half-Adder
 
+LINK TO VIDEO DEMO: https://usafa0-my.sharepoint.com/:v:/g/personal/c28connor_tran_afacademy_af_edu/IQAL11_fH0mLQorc_0HQmWhWAXaFf9auTIgMUfd2oXkGcus?e=eotOX4
+
+
 Code for [ECE 281 ICE 2: Half-Adder](https://usafa-ece.github.io/ece281-book/ICE/ICE2.html)
 
 Targeted toward Digilent Basys3. Make sure to install the [board files](https://github.com/Xilinx/XilinxBoardStore/tree/2018.2/boards/Digilent/basys3).
